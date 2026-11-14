@@ -19,5 +19,3 @@ interco_ontology.db-shm
 .edge-auth-profile/
 .edge-batch-profile/
 .batch-test/
-*.mp4
-*.pdf
